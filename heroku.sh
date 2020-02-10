@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /Users/Roshan/Documents/slack-scheduler
+cd /Users/Dan/Documents/slack-scheduler
 
 echo "--Adding--"
 
